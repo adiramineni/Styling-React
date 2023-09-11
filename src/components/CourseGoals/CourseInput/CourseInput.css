@@ -32,6 +32,3 @@
     color: red;
   }
 
-  .form-control.invalid .add-goal-button {
-    background-color: rgd(230, 208,208);
-  }
